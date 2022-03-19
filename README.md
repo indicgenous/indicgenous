@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, 👋, I'm Siddharth Mishra</h1>
 <h3 align="center">A passionate beginner</h3> 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/bAplZhiLAsNnG/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif">
 
 - 🌱 I’m currently learning **Java, DevOps**
 
