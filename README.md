@@ -3,9 +3,9 @@
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif">
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **Android App Development**
 
-- 👯 I’m looking to collaborate on **AI/ML projects**
+- 👯 I’m looking to collaborate on **Kotlin Android Application projects**
 
 - 📫 How to reach me **indicgenous@gmail.com**
 
