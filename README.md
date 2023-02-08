@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Kotlin Android Application projects**
 
-- 📫 How to reach me **indicgenous@gmail.com**
+- 📫 How to reach me **sidd.bt21cs53@opju.ac.in**
 
 - ⚡ Fun fact **I think I'm a fast learner**
 
