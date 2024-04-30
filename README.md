@@ -3,9 +3,9 @@
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif">
 
-- 🌱 I’m currently learning **Android App Development**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 👯 I’m looking to collaborate on **Kotlin Android Application projects**
+- 👯 I’m looking to collaborate on **Deep Learning Projects**
 
 - 📫 How to reach me **sidd.bt21cs53@opju.ac.in**
 
